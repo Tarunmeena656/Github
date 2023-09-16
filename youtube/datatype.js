@@ -36,5 +36,6 @@ console.log(names)
 
 let sub ;
 console.log(sub)
+console.log("undefined")
 
 
