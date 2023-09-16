@@ -8,5 +8,5 @@ console.log(pi)
 message = "Hello world";
 console.log(message);
 
-// let name = "Ajay";   
-// console.log(name)
+let name = "Ajay";   
+console.log(name)
